@@ -1,7 +1,7 @@
 ﻿####Download Manager####
 
 #    This script is designed to be used for windows to manage downloaded items.
-#      change \\MACHINE\disk\folder\subfolder on line 8 to your download location
+#      change \\MACHINE\disk\folder\subfolder on line 11 to your download location
 #    
 #    The first time you run this script, it will create a folder heirarchy for you to use
 #      Once the folders have been created, set your download location to the Unsorted folder that the script has created. 
